@@ -1,0 +1,2050 @@
+{
+  "link": "",
+  "image": "",
+  "color": "green",
+  "notes": "1",
+  "name": "level1",
+  "children": [
+    {
+      "link": "",
+      "image": "",
+      "color": "green",
+      "notes": "1",
+      "name": "level2",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "level3",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "level4-1",
+              "size": 3938
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "level 4-2",
+              "size": 3812
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "HierarchicalCluster",
+              "size": 6714
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "blue",
+              "notes": "1",
+              "name": "MergeEdge",
+              "size": "743"
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "graph",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "BetweennessCentrality",
+              "size": 3534
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "LinkDistance",
+              "size": 5731
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "MaxFlowMinCut",
+              "size": 7840
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ShortestPaths",
+              "size": 5914
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SpanningTree",
+              "size": 3416
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "optimization",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "AspectRatioBanker",
+              "size": 7074
+            }
+          ]
+        }
+      ],
+      "size": "10"
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "level2.1",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Easing",
+          "size": 17010
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "FunctionSequence",
+          "size": 5842
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "interpolate",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ArrayInterpolator",
+              "size": 1983
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ColorInterpolator",
+              "size": 2047
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DateInterpolator",
+              "size": 1375
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Interpolator",
+              "size": 8746
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "MatrixInterpolator",
+              "size": 2202
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "NumberInterpolator",
+              "size": 1382
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ObjectInterpolator",
+              "size": 1629
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "PointInterpolator",
+              "size": 1675
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "RectangleInterpolator",
+              "size": 2042
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "ISchedulable",
+          "size": 1041
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Parallel",
+          "size": 5176
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Pause",
+          "size": 449
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Scheduler",
+          "size": 5593
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Sequence",
+          "size": 5534
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Transition",
+          "size": 9201
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Transitioner",
+          "size": 19975
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "TransitionEvent",
+          "size": 1116
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Tween",
+          "size": 6006
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "xxxxxxdata",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "xxxconverters",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Converters",
+              "size": 721
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DelimitedTextConverter",
+              "size": 4294
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "GraphMLConverter",
+              "size": 9800
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "IDataConverter",
+              "size": 1314
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "JSONConverter",
+              "size": 2220
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataField",
+          "size": 1759
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataSchema",
+          "size": 2165
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataSet",
+          "size": 586
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataSource",
+          "size": 3331
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataTable",
+          "size": 772
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DataUtil",
+          "size": 3322
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "xxxdisplay",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DirtySprite",
+          "size": 8833
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "xxxLineSprite",
+          "size": 1732
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "RectSprite",
+          "size": 3623
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "TextSprite",
+          "size": 10066
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "flex",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "FlareVis",
+          "size": 4116
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "physics",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DragForce",
+          "size": 1082
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "GravityForce",
+          "size": 1336
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IForce",
+          "size": 319
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "NBodyForce",
+          "size": 10498
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Particle",
+          "size": 2822
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Simulation",
+          "size": 9983
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Spring",
+          "size": 2213
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "SpringForce",
+          "size": 1681
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "query",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "AggregateExpression",
+          "size": 1616
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "And",
+          "size": 1027
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Arithmetic",
+          "size": 3891
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Average",
+          "size": 891
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "BinaryExpression",
+          "size": 2893
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Comparison",
+          "size": 5103
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "CompositeExpression",
+          "size": 3677
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Count",
+          "size": 781
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "DateUtil",
+          "size": 4141
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Distinct",
+          "size": 933
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Expression",
+          "size": 5130
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "ExpressionIterator",
+          "size": 3617
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Fn",
+          "size": 3240
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "If",
+          "size": 2732
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IsA",
+          "size": 2039
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Literal",
+          "size": 1214
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Match",
+          "size": 3748
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Maximum",
+          "size": 843
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "methods",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "add",
+              "size": 593
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "and",
+              "size": 330
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "average",
+              "size": 287
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "count",
+              "size": 277
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "distinct",
+              "size": 292
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "div",
+              "size": 595
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "eq",
+              "size": 594
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "fn",
+              "size": 460
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "gt",
+              "size": 603
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "gte",
+              "size": 625
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "iff",
+              "size": 748
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "isa",
+              "size": 461
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "lt",
+              "size": 597
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "lte",
+              "size": 619
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "max",
+              "size": 283
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "min",
+              "size": 283
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "mod",
+              "size": 591
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "mul",
+              "size": 603
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "neq",
+              "size": 599
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "not",
+              "size": 386
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "or",
+              "size": 323
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "orderby",
+              "size": 307
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "range",
+              "size": 772
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "select",
+              "size": 296
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "stddev",
+              "size": 363
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "sub",
+              "size": 600
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "sum",
+              "size": 280
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "update",
+              "size": 307
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "variance",
+              "size": 335
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "where",
+              "size": 299
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "xor",
+              "size": 354
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "_",
+              "size": 264
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Minimum",
+          "size": 843
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Not",
+          "size": 1554
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Or",
+          "size": 970
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Query",
+          "size": 13896
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Range",
+          "size": 1594
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "StringUtil",
+          "size": 4130
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Sum",
+          "size": 791
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Variable",
+          "size": 1124
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Variance",
+          "size": 1876
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Xor",
+          "size": 1101
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "scale",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IScaleMap",
+          "size": 2105
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "LinearScale",
+          "size": 1316
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "LogScale",
+          "size": 3151
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "OrdinalScale",
+          "size": 3770
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "QuantileScale",
+          "size": 2435
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "QuantitativeScale",
+          "size": 4839
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "RootScale",
+          "size": 1756
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Scale",
+          "size": 4268
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "ScaleType",
+          "size": 1821
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "TimeScale",
+          "size": 5833
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "util",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Arrays",
+          "size": 8258
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Colors",
+          "size": 10001
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Dates",
+          "size": 8217
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Displays",
+          "size": 12555
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Filter",
+          "size": 2324
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Geometry",
+          "size": 10993
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "heap",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "FibonacciHeap",
+              "size": 9354
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "HeapNode",
+              "size": 1233
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IEvaluable",
+          "size": 335
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IPredicate",
+          "size": 383
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "IValueProxy",
+          "size": 874
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "math",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DenseMatrix",
+              "size": 3165
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "IMatrix",
+              "size": 2815
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SparseMatrix",
+              "size": 3366
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Maths",
+          "size": 17705
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Orientation",
+          "size": 1486
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "palette",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ColorPalette",
+              "size": 6367
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Palette",
+              "size": 1229
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ShapePalette",
+              "size": 2059
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SizePalette",
+              "size": 2291
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Property",
+          "size": 5559
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Shapes",
+          "size": 19118
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Sort",
+          "size": 6887
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Stats",
+          "size": 6557
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Strings",
+          "size": 22026
+        }
+      ]
+    },
+    {
+      "link": "",
+      "image": "",
+      "color": "red",
+      "notes": "",
+      "name": "vis",
+      "children": [
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "axis",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Axes",
+              "size": 1302
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Axis",
+              "size": 24593
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "AxisGridLine",
+              "size": 652
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "AxisLabel",
+              "size": 636
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "CartesianAxes",
+              "size": 6703
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "controls",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "AnchorControl",
+              "size": 2138
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ClickControl",
+              "size": 3824
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Control",
+              "size": 1353
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ControlList",
+              "size": 4665
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DragControl",
+              "size": 2649
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ExpandControl",
+              "size": 2832
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "HoverControl",
+              "size": 4896
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "IControl",
+              "size": 763
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "PanZoomControl",
+              "size": 5222
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SelectionControl",
+              "size": 7862
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "TooltipControl",
+              "size": 8435
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "data",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Data",
+              "size": 20544
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DataList",
+              "size": 19788
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DataSprite",
+              "size": 10349
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "EdgeSprite",
+              "size": 3301
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "NodeSprite",
+              "size": 19382
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "render",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "ArrowType",
+                  "size": 698
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "EdgeRenderer",
+                  "size": 5569
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "IRenderer",
+                  "size": 353
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "ShapeRenderer",
+                  "size": 2247
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "ScaleBinding",
+              "size": 11275
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Tree",
+              "size": 7147
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "TreeBuilder",
+              "size": 9930
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "events",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "DataEvent",
+              "size": 2313
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SelectionEvent",
+              "size": 1880
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "TooltipEvent",
+              "size": 1701
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "VisualizationEvent",
+              "size": 1117
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "legend",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Legend",
+              "size": 20859
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "LegendItem",
+              "size": 4614
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "LegendRange",
+              "size": 10530
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "operator",
+          "children": [
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "distortion",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "BifocalDistortion",
+                  "size": 4461
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "Distortion",
+                  "size": 6314
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "FisheyeDistortion",
+                  "size": 3444
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "encoder",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "ColorEncoder",
+                  "size": 3179
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "Encoder",
+                  "size": 4060
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "PropertyEncoder",
+                  "size": 4138
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "ShapeEncoder",
+                  "size": 1690
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "SizeEncoder",
+                  "size": 1830
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "filter",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "FisheyeTreeFilter",
+                  "size": 5219
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "GraphDistanceFilter",
+                  "size": 3165
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "VisibilityFilter",
+                  "size": 3509
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "IOperator",
+              "size": 1286
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "label",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "Labeler",
+                  "size": 9956
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "RadialLabeler",
+                  "size": 3899
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "StackedAreaLabeler",
+                  "size": 3202
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "layout",
+              "children": [
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "AxisLayout",
+                  "size": 6725
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "BundledEdgeRouter",
+                  "size": 3727
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "CircleLayout",
+                  "size": 9317
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "CirclePackingLayout",
+                  "size": 12003
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "DendrogramLayout",
+                  "size": 4853
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "ForceDirectedLayout",
+                  "size": 8411
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "IcicleTreeLayout",
+                  "size": 4864
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "IndentedTreeLayout",
+                  "size": 3174
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "Layout",
+                  "size": 7881
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "NodeLinkTreeLayout",
+                  "size": 12870
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "PieLayout",
+                  "size": 2728
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "RadialTreeLayout",
+                  "size": 12348
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "RandomLayout",
+                  "size": 870
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "StackedAreaLayout",
+                  "size": 9121
+                },
+                {
+                  "link": "",
+                  "image": "",
+                  "color": "red",
+                  "notes": "",
+                  "name": "TreeMapLayout",
+                  "size": 9191
+                }
+              ]
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "Operator",
+              "size": 2490
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "OperatorList",
+              "size": 5248
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "OperatorSequence",
+              "size": 4190
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "OperatorSwitch",
+              "size": 2581
+            },
+            {
+              "link": "",
+              "image": "",
+              "color": "red",
+              "notes": "",
+              "name": "SortOperator",
+              "size": 2023
+            }
+          ]
+        },
+        {
+          "link": "",
+          "image": "",
+          "color": "red",
+          "notes": "",
+          "name": "Visualization",
+          "size": 16540
+        }
+      ]
+    }
+  ],
+  "size": ""
+}
