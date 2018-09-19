@@ -104,8 +104,10 @@ function update(source) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
 
   nodeUpdate.select("circle")
-//      .attr("r", 10)      
-      .attr("r", function(d) { return d.size; })
+//  .attr("r", 10)      
+//  .attr("r", function(d) { return d.size; }) // размер круга пропорционален size
+    .attr("r", function(d) { return d.size !=null ? d.size : "5" }) //  размер круга пропорционален size или значение по умолчанию
+
     .text(function(d) { return d.name; })
     .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
