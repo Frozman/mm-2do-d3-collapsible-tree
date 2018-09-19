@@ -25,15 +25,15 @@
               "color": "red",
               "notes": "",
               "name": "level4-1",
-              "size": 3938
+              "size": 10
             },
             {
-              "link": "",
-              "image": "",
+              "link": "http://lenta.ru/",
+              "image": "http://pngimg.com/uploads/water/water_PNG3276.png",
               "color": "red",
-              "notes": "",
+              "notes": "заметка текст 4-2",
               "name": "level 4-2",
-              "size": 3812
+              "size": 20
             },
             {
               "link": "",
@@ -41,7 +41,7 @@
               "color": "red",
               "notes": "",
               "name": "HierarchicalCluster",
-              "size": 6714
+              "size": 35
             },
             {
               "link": "",
@@ -49,7 +49,7 @@
               "color": "blue",
               "notes": "1",
               "name": "MergeEdge",
-              "size": "743"
+              "size": 15
             }
           ]
         },
